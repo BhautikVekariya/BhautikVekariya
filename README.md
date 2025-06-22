@@ -1,4 +1,12 @@
+# 💫 Hi 👋, I'm Bhautik Vekariya
+**A passionate Python Full Stack Developer Kafka Admin from India**
 
+Email Me 👉 ✉️ **vekariyabhavtik3209.com** For Anything Else. 😊😊
+
+- 🌱 **I’m currently learning:** Python Full Stack 
+- 📫 **How to reach me:** bhautikvekariya3209@gmail.com
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhautikvekariya12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhautikvekariya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Bhautikvekari19) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vekariyabhavtik3209@gmail.com) 
 
