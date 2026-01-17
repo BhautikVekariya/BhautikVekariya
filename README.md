@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **vekariyabhavtik3209.com** For Anything Else. 😊😊
 
 - 🌱 **I’m currently learning:** Python Full Stack 
-- 📫 **How to reach me:** bhautikvekariya3209@gmail.com
+- 📫 **How to reach me:** vekariyabhavtik3209@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
   
 ## 🌐 Socials:
